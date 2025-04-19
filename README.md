@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🖋️ Dafont Font Scraper & Downloader
 
 This project helps you **scrape fonts from [Dafont.com](https://www.dafont.com)**, preview their images, and selectively download only the font files (`.zip`). It's built in two parts:
@@ -139,4 +135,3 @@ Created with ❤️ to give you full control over your font collections from [Da
 This project is for personal use and educational purposes only. Please respect the licensing of fonts on Dafont before using them in commercial work.
 
 ---
-```
